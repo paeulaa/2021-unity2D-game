@@ -1,4 +1,4 @@
 # bowling-is-not-bowling
 
-project3_ 2D unity game
-11010CS Game Programing
+
+CS550300 Game Programing Lab03 2D-Game
